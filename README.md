@@ -21,7 +21,8 @@ lattice_0.21-8
 ggraph_2.1.0       
 igraph_1.4.2        
 corrr_0.4.4         
-ropls_1.30.0        
+ropls_1.30.0   
+inlmisc_0.5.5
 dplyr_1.1.2         
 reshape2_1.4.4     
 robustbase_0.95-1   

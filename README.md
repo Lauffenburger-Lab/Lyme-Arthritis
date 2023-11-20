@@ -44,4 +44,4 @@ This is the tested environment, but program may run with other specifications.
 
 Analysis was carried out under macOS Ventura 13.2.1 with R run via R Studio Version 2023.03.0+386
 
-To generate any figures of interest, run the appropriate Data_load.R first (either the one for Figs 1, 3, 4, & all supplemental, or the one for Figs 2 and 5). Then run Load_functions.R (only necessary for figures 3, 4, and s5), followed by the file for the figure you would like to generate. 
+To generate any figures of interest, run the appropriate Data_load.R first (either the one for Figs 1/3/4/5 & S1/2/5/6, or the one for Figs 2/6 & S3/4). Then run Load_functions.R, followed by the file for the figure you would like to generate. 
